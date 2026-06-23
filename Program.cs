@@ -38,4 +38,29 @@ foreach(string word in words)
 Console.WriteLine("\nPig Latin:");
 Console.WriteLine(pigLatinPhrase);
 
+Random rand = new Random();
+int randomOffset = rand.Next(1, 26);
 
+string offsetPhrase = "";
+
+foreach (char letter in pigLatinPhrase)
+{
+    if(letter == ' ')
+    {
+        offsetPhrase += " ";
+    }
+    else
+    {
+        Char newLetter = (char)((int)letter + randomOffset);
+        //Overflow preventative
+        if (newLetter > 'z')
+        {
+            newLetter = (char)((int) newLetter - 26);
+        }
+
+        offsetPhrase += newLetter;
+    }
+}
+
+Console.WriteLine("\nOffset Phrase:");
+Console.WriteLine(offsetPhrase);
