@@ -1,0 +1,15 @@
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\lab-7-pig-latin-Thunderbird560.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\lab-7-pig-latin-Thunderbird560.AssemblyInfoInputs.cache
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\lab-7-pig-latin-Thunderbird560.AssemblyInfo.cs
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\lab-7-pig-latin-Thunderbird560.csproj.CoreCompileInputs.cache
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\lab-7-pig-latin-Thunderbird560.sourcelink.json
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\bin\Debug\net10.0\lab-7-pig-latin-Thunderbird560.exe
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\bin\Debug\net10.0\lab-7-pig-latin-Thunderbird560.deps.json
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\bin\Debug\net10.0\lab-7-pig-latin-Thunderbird560.runtimeconfig.json
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\bin\Debug\net10.0\lab-7-pig-latin-Thunderbird560.dll
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\bin\Debug\net10.0\lab-7-pig-latin-Thunderbird560.pdb
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\lab-7-pig-latin-Thunderbird560.dll
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\refint\lab-7-pig-latin-Thunderbird560.dll
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\lab-7-pig-latin-Thunderbird560.pdb
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\lab-7-pig-latin-Thunderbird560.genruntimeconfig.cache
+C:\Users\howar\my-code-dir\lab-7-pig-latin-Thunderbird560\obj\Debug\net10.0\ref\lab-7-pig-latin-Thunderbird560.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\lab-7-pig-latin-Thunderbird560.csproj": {}
+    "C:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\lab-7-pig-latin-Thunderbird560.csproj": {}
   },
   "projects": {
-    "c:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\lab-7-pig-latin-Thunderbird560.csproj": {
+    "C:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\lab-7-pig-latin-Thunderbird560.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\lab-7-pig-latin-Thunderbird560.csproj",
+        "projectUniqueName": "C:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\lab-7-pig-latin-Thunderbird560.csproj",
         "projectName": "lab-7-pig-latin-Thunderbird560",
-        "projectPath": "c:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\lab-7-pig-latin-Thunderbird560.csproj",
+        "projectPath": "C:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\lab-7-pig-latin-Thunderbird560.csproj",
         "packagesPath": "C:\\Users\\howar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\obj\\",
+        "outputPath": "C:\\Users\\howar\\my-code-dir\\lab-7-pig-latin-Thunderbird560\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\howar\\AppData\\Roaming\\NuGet\\NuGet.Config"
